@@ -1,0 +1,23 @@
+.service-block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    margin-top: 42px;
+}
+.service-block__text .service-block__title {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: $service-title-item;
+    padding-bottom: 15px;
+}
+.service-block__text p {
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 400;
+    color: $service-text;
+    line-height: 24px;
+}

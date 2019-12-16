@@ -1,6 +1,22 @@
 /*
  * Все паршалы импортировать в этот файл
  */
-
+@import 'helpers/veriables';
 @import 'normalize.scss';
 @import 'base.scss';
+@import 'components/navigation.scss';
+@import 'components/logo.scss';
+@import 'components/conteiner.scss';
+@import 'components/cart.scss';
+@import 'components/serch.scss';
+@import 'components/offer.scss';
+@import 'components/service-title.scss';
+@import 'components/service-icon.scss';
+@import 'components/service-block.scss';
+@import 'components/team-icon.scss';
+@import 'components/team.scss';
+@import 'components/team-description.scss';
+@import 'components/footer.scss';
+@import 'components/form.scss';
+@import 'components/bg-retina.scss';
+

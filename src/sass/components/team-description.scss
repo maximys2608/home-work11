@@ -1,0 +1,19 @@
+.team-text h3 {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: $service-title-item;
+    text-align: center;
+    margin-top: 30px;
+}
+.team-text p {
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 86px;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 400;
+    color: $service-text;
+    line-height: 24px;
+}

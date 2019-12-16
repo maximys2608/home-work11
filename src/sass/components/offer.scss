@@ -1,0 +1,43 @@
+.block-offer {
+    display: block;
+    margin: 0 auto;
+}
+.block-offer__text {
+    text-align: center;
+    font-family: 'Kaushan Script';
+    font-size: 72px;
+    color: $primery-white-color;
+}
+.section-offer {
+    margin-bottom: 150px;
+
+}
+.block-offer__title {
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 150px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 140px;
+    width: 820px;
+    margin: 0 auto;
+    padding-top: 68px;
+    padding-bottom: 128px;
+    color: $primery-white-color;
+    
+}
+.button__offer {
+    width: 170px;
+    line-height: 40px;
+    display: block;margin: 0 auto;
+    text-align: center;
+    border: 3px solid$primery-white-color;
+    text-decoration: none;
+    color: $primery-white-color;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.button__offer:hover {
+    color: $primery-white-color;
+    text-decoration: none;
+}
